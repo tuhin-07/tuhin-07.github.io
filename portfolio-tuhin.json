@@ -1,0 +1,132 @@
+{
+    "name": "Tuhin Acharjee",
+    "label": "Software Engineer | Tech Lead",
+    "contact": {
+      "email": "tuhinacharjee2001@gmail.com",
+      "phone": "+91-7903067070",
+      "location": "Jamshedpur, India"
+    },
+    "summary": "Software Engineer and Tech Lead at Rosa Tech Pvt Ltd, specializing in robotics, automation, machine learning, and computer vision. Passionate about designing high-performance systems and AI-driven applications.",
+    "base_url": "127.0.0.1:5500",
+    "social_links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tuhin-acharjee-b55220222",
+        "svg_path": "img/linkedin.svg"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/tuhin-07",
+        "svg_path": "img/github.svg"
+      },
+      {
+        "label": "LeetCode",
+        "url": "https://leetcode.com/tuhin-07/"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Rosa Tech Pvt Ltd",
+        "position": "Software Engineer (Tech Lead)",
+        "url": "",
+        "start_date": "March 2023",
+        "end_date": "Present",
+        "summary": "Leading the development of robotic automation and AI-driven testing systems, improving efficiency and performance.",
+        "highlights": [
+          "Developed an automated rebar detection and tensile strength testing system using computer vision, CNNs, and robotic automation, boosting efficiency by 50% and contributing to 15% of company revenue.",
+          "Designed real-time data processing architectures, ensuring response times under 0.01 milliseconds.",
+          "Engineered a Python library for IMU calibration with I2C integration for sensor precision.",
+          "Built 10+ high-impact microservices improving backend operations and data processing efficiency."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Automated Rebar Strength Testing",
+        "summary": "Developed a machine learning and computer vision-based system for rebar detection and tensile strength analysis.",
+        "url": "",
+        "highlights": [
+          "Designed and deployed an AI-powered robotic pick-and-place system, increasing testing efficiency by 50%.",
+          "Implemented CNN-based computer vision models for rebar detection and strength analysis.",
+          "Utilized Python, TensorFlow, OpenCV, and robotic control frameworks for automation."
+        ],
+        "images": []
+      },
+      {
+        "title": "SimpliQ - Question Similarity Predictor",
+        "summary": "Built an NLP-based model for predicting question similarity using the Quora dataset.",
+        "url": "",
+        "highlights": [
+          "Developed a model with 80.14% accuracy using advanced NLP techniques.",
+          "Implemented feature extraction pipelines and optimized performance using Random Forest.",
+          "Created a user-friendly Streamlit-based web app for real-time predictions."
+        ],
+        "images": []
+      },
+      {
+        "title": "Football Analysis System",
+        "summary": "Designed an AI-driven system for real-time football player tracking and analysis.",
+        "url": "",
+        "highlights": [
+          "Integrated YOLOv8 for detecting players, referees, and footballs in real-time.",
+          "Used KMeans clustering for player segmentation and optical flow for tracking movements.",
+          "Applied OpenCV perspective transformation to convert pixel data into real-world player metrics."
+        ],
+        "images": []
+      }
+    ],
+    "education": [
+      {
+        "institution": "RVS College of Engineering and Technology",
+        "location": "Jamshedpur, India",
+        "url": "",
+        "degrees": [
+          "B.Tech in Computer Science and Engineering"
+        ],
+        "graduation_date": "2023"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "proficiency": 100,
+        "proficiency_label": "Expert"
+      },
+      {
+        "name": "C++",
+        "proficiency": 90,
+        "proficiency_label": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "proficiency": 95,
+        "proficiency_label": "Expert"
+      },
+      {
+        "name": "Computer Vision",
+        "proficiency": 90,
+        "proficiency_label": "Advanced"
+      },
+      {
+        "name": "Deep Learning",
+        "proficiency": 85,
+        "proficiency_label": "Advanced"
+      },
+      {
+        "name": "TensorFlow & PyTorch",
+        "proficiency": 90,
+        "proficiency_label": "Advanced"
+      },
+      {
+        "name": "Opencv",
+        "proficiency": 85,
+        "proficiency_label": "Advanced"
+      },
+      {
+        "name": "System Design",
+        "proficiency": 80,
+        "proficiency_label": "Intermediate"
+      }
+    ]
+  }
+  
